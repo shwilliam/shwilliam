@@ -7,42 +7,18 @@
   >
 </p>
 
-<hr>
-<br>
-
-<p width="80%">
-  <samp>
-    :wave: Hi!
-    <br><br>
-    I'm William, a Swedish, frontend-leaning developer, based in
-    Vancouver. I absolutely <b>love</b> the web and working to make it more
-    fun, interesting, and exciting to use and develop for. :computer::unicorn:
-    <br><br>
-    ▸
-    <a
-      href="https://shwilliam.com"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      Website
+<p align="center">
+  <kbd>
+    <a href="mailto:shwilliam@hey.com?subject=Hi%20there%20👋">
+      say hi
     </a>
-    <br>
-    ▸
-    <a
-      href="https://shwilliam.com/blog"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      Blog
+  </kbd>
+  &nbsp;
+  <kbd>
+    <a href="https://shwilliam.com" target="_blank" rel="noopener noreferrer">
+      my website
     </a>
-    <br>
-    ▸
-    <a
-      href="mailto:shwilliam@hey.com?subject=👋%20Hey!"
-    >
-      Say hello!
-    </a>
-  </samp>
+  </kbd>
 </p>
 
 <br>
