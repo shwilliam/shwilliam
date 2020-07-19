@@ -16,7 +16,13 @@
   &nbsp;
   <kbd>
     <a href="https://shwilliam.com" target="_blank" rel="noopener noreferrer">
-      my website
+      website
+    </a>
+  </kbd>
+  &nbsp;
+  <kbd>
+    <a href="https://shwilliam.com/rss.xml" target="_blank" rel="noopener noreferrer">
+      rss
     </a>
   </kbd>
 </p>
