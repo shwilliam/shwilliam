@@ -1,10 +1,12 @@
 <br>
 
 <p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/38357771/87080095-f4f64400-c1db-11ea-825f-7951ee0373a4.gif"
-    alt=""
-  >
+  <a href="https://shwilliam.com" target="_blank" rel="me">
+    <img
+      src="https://user-images.githubusercontent.com/38357771/87080095-f4f64400-c1db-11ea-825f-7951ee0373a4.gif"
+      alt=""
+    >
+  </a>
 </p>
 
 <p align="center">
@@ -15,13 +17,13 @@
   </kbd>
   &nbsp;
   <kbd>
-    <a href="https://shwilliam.com" target="_blank" rel="noopener noreferrer">
+    <a href="https://shwilliam.com" target="_blank" rel="me">
       website
     </a>
   </kbd>
   &nbsp;
   <kbd>
-    <a href="https://shwilliam.com/rss.xml" target="_blank" rel="noopener noreferrer">
+    <a href="https://shwilliam.com/rss.xml" target="_blank" rel="me">
       rss
     </a>
   </kbd>
