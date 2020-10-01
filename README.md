@@ -12,19 +12,25 @@
 <p align="center">
   <kbd>
     <a href="mailto:shwilliam@hey.com?subject=Hi%20there%20👋">
-      say hi
+      👋 email
+    </a>
+  </kbd>
+  &nbsp;
+  <kbd>
+    <a href="" rel="noopener noreferrer">
+      💼 mymedbot
     </a>
   </kbd>
   &nbsp;
   <kbd>
     <a href="https://shwilliam.com" target="_blank" rel="me">
-      website
+      📍 website
     </a>
   </kbd>
   &nbsp;
   <kbd>
     <a href="https://shwilliam.com/rss.xml" target="_blank" rel="me">
-      rss
+      🗞 rss
     </a>
   </kbd>
 </p>
