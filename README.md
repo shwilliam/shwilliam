@@ -17,7 +17,7 @@
   </kbd>
   &nbsp;
   <kbd>
-    <a href="" rel="noopener noreferrer">
+    <a href="https://medium.com/mymedbot-blog" rel="noopener noreferrer">
       💼 mymedbot
     </a>
   </kbd>
