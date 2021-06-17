@@ -17,20 +17,8 @@
   </kbd>
   &nbsp;
   <kbd>
-    <a href="https://medium.com/mymedbot-blog" rel="noopener noreferrer">
-      💼 mymedbot
-    </a>
-  </kbd>
-  &nbsp;
-  <kbd>
     <a href="https://shwilliam.com" target="_blank" rel="me">
       📍 website
-    </a>
-  </kbd>
-  &nbsp;
-  <kbd>
-    <a href="https://shwilliam.com/rss.xml" target="_blank" rel="me">
-      🗞 rss
     </a>
   </kbd>
 </p>
